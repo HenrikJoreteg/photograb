@@ -56,6 +56,7 @@ No options are necessary.
 But you can pass the following as part of the options object:
 
 `width` - will return an image of that width, if passed by itself, it will scale proportionately.
+
 `height` - will return an image of that height, if passed by itself, it will scale proportionately.
 
 ** note if you pass both a height/width it will skew image.
